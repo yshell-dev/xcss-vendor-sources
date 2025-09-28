@@ -1,0 +1,16 @@
+{
+  "@counter-style": {
+    "moz": "@-moz-counter-style"
+  },
+  "@document": {
+    "moz": "@-moz-document"
+  },
+  "@font-feature-values": {
+    "moz": "@-moz-font-feature-values",
+    "webkit": "@-webkit-font-feature-values"
+  },
+  "@region": {
+    "webkit": "@-webkit-region",
+    "ms": "@-ms-region"
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "backdrop-filter": {
+        "webkit": "-webkit-backdrop-filter"
+    },
+    "scroll-snap-type": {
+        "webkit": "-webkit-scroll-snap-type",
+        "ms": "-ms-scroll-snap-type"
+    },
+    "scroll-snap-align": {
+        "webkit": "-webkit-scroll-snap-align",
+        "ms": "-ms-scroll-snap-align"
+    },
+    "scroll-snap-stop": {
+        "webkit": "-webkit-scroll-snap-stop",
+        "ms": "-ms-scroll-snap-stop"
+    },
+    "scroll-behavior": {
+        "webkit": "-webkit-scroll-behavior",
+        "ms": "-ms-scroll-behavior"
+    },
+    "filter": {
+        "webkit": "-webkit-filter"
+    },
+    "mask-image": {
+        "webkit": "-webkit-mask-image"
+    },
+    "mask-size": {
+        "webkit": "-webkit-mask-size"
+    },
+    "mask-position": {
+        "webkit": "-webkit-mask-position"
+    },
+    "mask-repeat": {
+        "webkit": "-webkit-mask-repeat"
+    }
+}

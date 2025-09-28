@@ -1,0 +1,14 @@
+{
+  "@keyframes": {
+    "webkit": "@-webkit-keyframes",
+    "moz": "@-moz-keyframes",
+    "ms": "@-ms-keyframes",
+    "o": "@-o-keyframes"
+  },
+  "@supports": {
+    "webkit": "@-webkit-supports",
+    "moz": "@-moz-supports",
+    "ms": "@-ms-supports",
+    "o": "@-o-supports"
+  }
+}

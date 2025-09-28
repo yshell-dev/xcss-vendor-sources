@@ -1,0 +1,469 @@
+{
+    "align-content": {
+        "webkit": "-webkit-align-content",
+        "moz": "-moz-align-content",
+        "ms": "-ms-flex-line-pack"
+    },
+    "align-items": {
+        "webkit": "-webkit-align-items",
+        "moz": "-moz-align-items",
+        "ms": "-ms-flex-align"
+    },
+    "align-self": {
+        "webkit": "-webkit-align-self",
+        "moz": "-moz-align-self",
+        "ms": "-ms-flex-item-align"
+    },
+    "animation": {
+        "webkit": "-webkit-animation",
+        "moz": "-moz-animation",
+        "ms": "-ms-animation",
+        "o": "-o-animation"
+    },
+    "animation-delay": {
+        "webkit": "-webkit-animation-delay",
+        "moz": "-moz-animation-delay",
+        "ms": "-ms-animation-delay",
+        "o": "-o-animation-delay"
+    },
+    "animation-direction": {
+        "webkit": "-webkit-animation-direction",
+        "moz": "-moz-animation-direction",
+        "ms": "-ms-animation-direction",
+        "o": "-o-animation-direction"
+    },
+    "animation-duration": {
+        "webkit": "-webkit-animation-duration",
+        "moz": "-moz-animation-duration",
+        "ms": "-ms-animation-duration",
+        "o": "-o-animation-duration"
+    },
+    "animation-fill-mode": {
+        "webkit": "-webkit-animation-fill-mode",
+        "moz": "-moz-animation-fill-mode",
+        "ms": "-ms-animation-fill-mode",
+        "o": "-o-animation-fill-mode"
+    },
+    "animation-iteration-count": {
+        "webkit": "-webkit-animation-iteration-count",
+        "moz": "-moz-animation-iteration-count",
+        "ms": "-ms-animation-iteration-count",
+        "o": "-o-animation-iteration-count"
+    },
+    "animation-name": {
+        "webkit": "-webkit-animation-name",
+        "moz": "-moz-animation-name",
+        "ms": "-ms-animation-name",
+        "o": "-o-animation-name"
+    },
+    "animation-play-state": {
+        "webkit": "-webkit-animation-play-state",
+        "moz": "-moz-animation-play-state",
+        "ms": "-ms-animation-play-state",
+        "o": "-o-animation-play-state"
+    },
+    "animation-timing-function": {
+        "webkit": "-webkit-animation-timing-function",
+        "moz": "-moz-animation-timing-function",
+        "ms": "-ms-animation-timing-function",
+        "o": "-o-animation-timing-function"
+    },
+    "appearance": {
+        "webkit": "-webkit-appearance",
+        "moz": "-moz-appearance"
+    },
+    "backface-visibility": {
+        "webkit": "-webkit-backface-visibility"
+    },
+    "background-clip": {
+        "webkit": "-webkit-background-clip"
+    },
+    "background-origin": {
+        "webkit": "-webkit-background-origin"
+    },
+    "background-size": {
+        "webkit": "-webkit-background-size",
+        "moz": "-moz-background-size"
+    },
+    "border-image": {
+        "webkit": "-webkit-border-image",
+        "moz": "-moz-border-image",
+        "o": "-o-border-image"
+    },
+    "border-radius": {
+        "webkit": "-webkit-border-radius",
+        "moz": "-moz-border-radius"
+    },
+    "box-shadow": {
+        "webkit": "-webkit-box-shadow",
+        "moz": "-moz-box-shadow"
+    },
+    "box-sizing": {
+        "webkit": "-webkit-box-sizing",
+        "moz": "-moz-box-sizing"
+    },
+    "column-count": {
+        "webkit": "-webkit-column-count",
+        "moz": "-moz-column-count"
+    },
+    "column-gap": {
+        "webkit": "-webkit-column-gap",
+        "moz": "-moz-column-gap"
+    },
+    "column-rule": {
+        "webkit": "-webkit-column-rule",
+        "moz": "-moz-column-rule"
+    },
+    "column-span": {
+        "webkit": "-webkit-column-span",
+        "moz": "-moz-column-span"
+    },
+    "column-width": {
+        "webkit": "-webkit-column-width",
+        "moz": "-moz-column-width"
+    },
+    "filter": {
+        "webkit": "-webkit-filter"
+    },
+    "flex": {
+        "webkit": "-webkit-flex",
+        "moz": "-moz-flex",
+        "ms": "-ms-flex"
+    },
+    "flex-basis": {
+        "webkit": "-webkit-flex-basis",
+        "moz": "-moz-flex-basis",
+        "ms": "-ms-flex-basis"
+    },
+    "flex-direction": {
+        "webkit": "-webkit-flex-direction",
+        "moz": "-moz-flex-direction",
+        "ms": "-ms-flex-direction"
+    },
+    "flex-grow": {
+        "webkit": "-webkit-flex-grow",
+        "moz": "-moz-flex-grow",
+        "ms": "-ms-flex-grow"
+    },
+    "flex-shrink": {
+        "webkit": "-webkit-flex-shrink",
+        "moz": "-moz-flex-shrink",
+        "ms": "-ms-flex-shrink"
+    },
+    "flex-wrap": {
+        "webkit": "-webkit-flex-wrap",
+        "moz": "-moz-flex-wrap",
+        "ms": "-ms-flex-wrap"
+    },
+    "font-feature-settings": {
+        "webkit": "-webkit-font-feature-settings",
+        "moz": "-moz-font-feature-settings",
+        "ms": "-ms-font-feature-settings"
+    },
+    "font-kerning": {
+        "webkit": "-webkit-font-kerning",
+        "moz": "-moz-font-kerning"
+    },
+    "hyphens": {
+        "webkit": "-webkit-hyphens",
+        "moz": "-moz-hyphens",
+        "ms": "-ms-hyphens"
+    },
+    "justify-content": {
+        "webkit": "-webkit-justify-content",
+        "moz": "-moz-justify-content",
+        "ms": "-ms-justify-content"
+    },
+    "mask": {
+        "webkit": "-webkit-mask",
+        "moz": "-moz-mask"
+    },
+    "mask-clip": {
+        "webkit": "-webkit-mask-clip",
+        "moz": "-moz-mask-clip"
+    },
+    "mask-composite": {
+        "webkit": "-webkit-mask-composite",
+        "moz": "-moz-mask-composite"
+    },
+    "mask-image": {
+        "webkit": "-webkit-mask-image",
+        "moz": "-moz-mask-image"
+    },
+    "mask-origin": {
+        "webkit": "-webkit-mask-origin",
+        "moz": "-moz-mask-origin"
+    },
+    "mask-position": {
+        "webkit": "-webkit-mask-position",
+        "moz": "-moz-mask-position"
+    },
+    "mask-repeat": {
+        "webkit": "-webkit-mask-repeat",
+        "moz": "-moz-mask-repeat"
+    },
+    "mask-size": {
+        "webkit": "-webkit-mask-size",
+        "moz": "-moz-mask-size"
+    },
+    "order": {
+        "webkit": "-webkit-order",
+        "moz": "-moz-order",
+        "ms": "-ms-order"
+    },
+    "perspective": {
+        "webkit": "-webkit-perspective"
+    },
+    "perspective-origin": {
+        "webkit": "-webkit-perspective-origin"
+    },
+    "tab-size": {
+        "moz": "-moz-tab-size"
+    },
+    "text-align-last": {
+        "moz": "-moz-text-align-last",
+        "ms": "-ms-text-align-last"
+    },
+    "text-decoration-color": {
+        "moz": "-moz-text-decoration-color"
+    },
+    "text-decoration-line": {
+        "moz": "-moz-text-decoration-line"
+    },
+    "text-decoration-style": {
+        "moz": "-moz-text-decoration-style"
+    },
+    "text-size-adjust": {
+        "webkit": "-webkit-text-size-adjust",
+        "moz": "-moz-text-size-adjust",
+        "ms": "-ms-text-size-adjust"
+    },
+    "transform": {
+        "webkit": "-webkit-transform",
+        "moz": "-moz-transform",
+        "ms": "-ms-transform",
+        "o": "-o-transform"
+    },
+    "transform-origin": {
+        "webkit": "-webkit-transform-origin",
+        "moz": "-moz-transform-origin",
+        "ms": "-ms-transform-origin",
+        "o": "-o-transform-origin"
+    },
+    "transform-style": {
+        "webkit": "-webkit-transform-style"
+    },
+    "transition": {
+        "webkit": "-webkit-transition",
+        "moz": "-moz-transition",
+        "ms": "-ms-transition",
+        "o": "-o-transition"
+    },
+    "transition-delay": {
+        "webkit": "-webkit-transition-delay",
+        "moz": "-moz-transition-delay",
+        "ms": "-ms-transition-delay",
+        "o": "-o-transition-delay"
+    },
+    "transition-duration": {
+        "webkit": "-webkit-transition-duration",
+        "moz": "-moz-transition-duration",
+        "ms": "-ms-transition-duration",
+        "o": "-o-transition-duration"
+    },
+    "transition-property": {
+        "webkit": "-webkit-transition-property",
+        "moz": "-moz-transition-property",
+        "ms": "-ms-transition-property",
+        "o": "-o-transition-property"
+    },
+    "transition-timing-function": {
+        "webkit": "-webkit-transition-timing-function",
+        "moz": "-moz-transition-timing-function",
+        "ms": "-ms-transition-timing-function",
+        "o": "-o-transition-timing-function"
+    },
+    "user-select": {
+        "webkit": "-webkit-user-select",
+        "moz": "-moz-user-select",
+        "ms": "-ms-user-select"
+    },
+    "display": {
+        "box": {
+            "webkit": "-webkit-box",
+            "moz": "-moz-box"
+        },
+        "inline-box": {
+            "webkit": "-webkit-inline-box",
+            "moz": "-moz-inline-box"
+        },
+        "flex": {
+            "webkit": "-webkit-flex",
+            "moz": "-moz-flex",
+            "ms": "-ms-flex"
+        },
+        "inline-flex": {
+            "webkit": "-webkit-inline-flex",
+            "moz": "-moz-inline-flex",
+            "ms": "-ms-inline-flex"
+        },
+        "grid": {
+            "webkit": "-webkit-grid",
+            "moz": "-moz-grid"
+        },
+        "inline-grid": {
+            "webkit": "-webkit-inline-grid",
+            "moz": "-moz-inline-grid"
+        },
+        "flow-root": {
+            "webkit": "-webkit-flow-root",
+            "moz": "-moz-flow-root"
+        }
+    },
+    "writing-mode": {
+        "horizontal-tb": {
+            "webkit": "-webkit-horizontal-tb",
+            "ms": "-ms-horizontal-tb"
+        },
+        "vertical-rl": {
+            "webkit": "-webkit-vertical-rl",
+            "ms": "-ms-vertical-rl"
+        },
+        "vertical-lr": {
+            "webkit": "-webkit-vertical-lr",
+            "ms": "-ms-vertical-lr"
+        }
+    },
+    "cursor": {
+        "grab": {
+            "webkit": "-webkit-grab",
+            "moz": "-moz-grab"
+        },
+        "grabbing": {
+            "webkit": "-webkit-grabbing",
+            "moz": "-moz-grabbing"
+        },
+        "zoom-in": {
+            "webkit": "-webkit-zoom-in",
+            "moz": "-moz-zoom-in"
+        },
+        "zoom-out": {
+            "webkit": "-webkit-zoom-out",
+            "moz": "-moz-zoom-out"
+        }
+    },
+    "overflow-wrap": {
+        "normal": {
+            "webkit": "-webkit-normal",
+            "moz": "-moz-normal"
+        },
+        "break-word": {
+            "webkit": "-webkit-break-word",
+            "moz": "-moz-break-word"
+        }
+    },
+    "text-orientation": {
+        "mixed": {
+            "webkit": "-webkit-mixed",
+            "moz": "-moz-mixed",
+            "ms": "-ms-mixed"
+        },
+        "upright": {
+            "webkit": "-webkit-upright",
+            "moz": "-moz-upright",
+            "ms": "-ms-upright"
+        },
+        "sideways": {
+            "webkit": "-webkit-sideways",
+            "moz": "-moz-sideways",
+            "ms": "-ms-sideways"
+        },
+        "sideways-right": {
+            "webkit": "-webkit-sideways-right",
+            "moz": "-moz-sideways-right",
+            "ms": "-ms-sideways-right"
+        },
+        "sideways-left": {
+            "webkit": "-webkit-sideways-left",
+            "moz": "-moz-sideways-left",
+            "ms": "-ms-sideways-left"
+        }
+    },
+    "position": {
+        "sticky": {
+            "webkit": "-webkit-sticky",
+            "moz": "-moz-sticky",
+            "ms": "-ms-sticky"
+        }
+    },
+    "image-rendering": {
+        "pixelated": {
+            "webkit": "-webkit-optimize-contrast",
+            "moz": "-moz-crisp-edges",
+            "o": "-o-crisp-edges"
+        },
+        "crisp-edges": {
+            "webkit": "-webkit-optimize-contrast",
+            "moz": "-moz-crisp-edges",
+            "o": "-o-crisp-edges"
+        }
+    },
+    "touch-action": {
+        "manipulation": {
+            "ms": "-ms-manipulation"
+        },
+        "pan-x": {
+            "ms": "-ms-pan-x"
+        },
+        "pan-y": {
+            "ms": "-ms-pan-y"
+        },
+        "pinch-zoom": {
+            "ms": "-ms-pinch-zoom"
+        },
+        "auto": {
+            "ms": "-ms-auto"
+        },
+        "none": {
+            "ms": "-ms-none"
+        },
+        "double-tap-zoom": {
+            "ms": "-ms-double-tap-zoom"
+        }
+    },
+    "mask-type": {
+        "luminance": {
+            "webkit": "-webkit-luminance"
+        },
+        "alpha": {
+            "webkit": "-webkit-alpha"
+        }
+    },
+    "clip-path": {
+        "webkit": "-webkit-clip-path"
+    },
+    "shape-outside": {
+        "webkit": "-webkit-shape-outside"
+    },
+    "shape-margin": {
+        "webkit": "-webkit-shape-margin"
+    },
+    "shape-image-threshold": {
+        "webkit": "-webkit-shape-image-threshold"
+    },
+    "backdrop-filter": {
+        "webkit": "-webkit-backdrop-filter"
+    },
+    "text-emphasis": {
+        "webkit": "-webkit-text-emphasis"
+    },
+    "text-emphasis-color": {
+        "webkit": "-webkit-text-emphasis-color"
+    },
+    "text-emphasis-style": {
+        "webkit": "-webkit-text-emphasis-style"
+    },
+    "text-emphasis-position": {
+        "webkit": "-webkit-text-emphasis-position"
+    }
+}

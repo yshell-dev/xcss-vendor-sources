@@ -1,0 +1,11 @@
+{
+  "autocomplete": {
+    "webkit": "-webkit-autocomplete"
+  },
+  "spellcheck": {
+    "webkit": "-webkit-spellcheck"
+  },
+  "grammar": {
+    "webkit": "-webkit-grammar"
+  }
+}

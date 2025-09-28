@@ -1,0 +1,38 @@
+{
+  "::after": {
+    "webkit": ":-webkit-after",
+    "moz": ":-moz-after"
+  },
+  "::before": {
+    "webkit": ":-webkit-before",
+    "moz": ":-moz-before"
+  },
+  "::selection": {
+    "moz": "::-moz-selection",
+    "webkit": "::-webkit-selection"
+  },
+  "::backdrop": {
+    "webkit": "::-webkit-backdrop"
+  },
+  "::marker": {
+    "webkit": "::-webkit-marker"
+  },
+  "::placeholder": {
+    "webkit": "::-webkit-input-placeholder",
+    "moz": "::-moz-placeholder",
+    "ms": "::-ms-input-placeholder"
+  },
+  "::file-selector-button": {
+    "webkit": "::-webkit-file-upload-button",
+    "ms": "::-ms-file-selector-button"
+  },
+  "::fullscreen": {
+    "webkit": ":-webkit-full-screen",
+    "moz": ":-moz-full-screen",
+    "ms": ":-ms-fullscreen",
+    "o": ":-o-full-screen"
+  },
+  "::cue": {
+    "webkit": "::-webkit-cue"
+  }
+}
