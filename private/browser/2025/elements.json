@@ -1,0 +1,29 @@
+{
+  "::after": {
+    "webkit": ":-webkit-after"
+  },
+  "::before": {
+    "webkit": ":-webkit-before"
+  },
+  "::selection": {
+    "webkit": "::-webkit-selection"
+  },
+  "::backdrop": {
+    "webkit": "::-webkit-backdrop"
+  },
+  "::marker": {
+    "webkit": "::-webkit-marker"
+  },
+  "::placeholder": {
+    "webkit": "::-webkit-input-placeholder"
+  },
+  "::file-selector-button": {
+    "webkit": "::-webkit-file-upload-button"
+  },
+  "::fullscreen": {
+    "webkit": ":-webkit-full-screen"
+  },
+  "::cue": {
+    "webkit": "::-webkit-cue"
+  }
+}

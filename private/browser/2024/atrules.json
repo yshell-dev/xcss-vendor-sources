@@ -1,0 +1,34 @@
+{
+  "@charset": {},
+  "@counter-style": {
+    "moz": "@-moz-counter-style"
+  },
+  "@document": {
+    "moz": "@-moz-document"
+  },
+  "@font-face": {},
+  "@font-feature-values": {
+    "moz": "@-moz-font-feature-values",
+    "webkit": "@-webkit-font-feature-values"
+  },
+  "@import": {},
+  "@keyframes": {
+    "webkit": "@-webkit-keyframes",
+    "moz": "@-moz-keyframes",
+    "ms": "@-ms-keyframes",
+    "o": "@-o-keyframes"
+  },
+  "@media": {},
+  "@namespace": {},
+  "@page": {},
+  "@supports": {},
+  "@viewport": {
+    "ms": "@-ms-viewport",
+    "o": "@-o-viewport",
+    "webkit": "@-webkit-viewport"
+  },
+  "@region": {
+    "webkit": "@-webkit-region",
+    "ms": "@-ms-region"
+  }
+}

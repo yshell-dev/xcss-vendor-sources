@@ -1,0 +1,12 @@
+{
+  "name": "xcss-prefixes",
+  "version": "0.0.0",
+  "description": "XCSS Prefix management environment",
+  "license": "ISC",
+  "author": "yshell-dev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ."
+  }
+}

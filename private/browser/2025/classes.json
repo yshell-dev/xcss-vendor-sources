@@ -1,0 +1,21 @@
+{
+  ":read-only": {},
+  ":read-write": {},
+  ":fullscreen": {
+    "webkit": ":-webkit-full-screen"
+  },
+  ":autofill": {
+    "webkit": ":-webkit-autofill"
+  },
+  ":placeholder-shown": {
+    "webkit": ":-webkit-placeholder-shown"
+  },
+  ":dir": {},
+  ":is": {
+    "webkit": ":-webkit-any()"
+  },
+  ":default": {},
+  ":indeterminate": {
+    "webkit": ":-webkit-indeterminate"
+  }
+}
