@@ -1,0 +1,84 @@
+{
+    "align-content": {
+        "start": "-webkit-start",
+        "end": "-webkit-end",
+        "center": "-webkit-center",
+        "flex-start": "-webkit-flex-start",
+        "flex-end": "-webkit-flex-end",
+        "space-between": "-webkit-space-between",
+        "space-around": "-webkit-space-around",
+        "space-evenly": "-webkit-space-evenly",
+        "stretch": "-webkit-stretch",
+        "safe center": "-webkit-safe-center",
+        "unsafe center": "-webkit-unsafe-center"
+    },
+    "align-items": {
+        "flex-start": "-webkit-flex-start",
+        "flex-end": "-webkit-flex-end",
+        "center": "-webkit-center",
+        "baseline": "-webkit-baseline",
+        "stretch": "-webkit-stretch"
+    },
+    "align-self": {
+        "flex-start": "-webkit-flex-start",
+        "flex-end": "-webkit-flex-end",
+        "center": "-webkit-center",
+        "baseline": "-webkit-baseline",
+        "stretch": "-webkit-stretch"
+    },
+    "display": {
+        "box": "-webkit-box",
+        "inline-box": "-webkit-inline-box",
+        "flex": "-webkit-flex",
+        "inline-flex": "-webkit-inline-flex",
+        "grid": "-webkit-grid",
+        "inline-grid": "-webkit-inline-grid",
+        "flow-root": "-webkit-flow-root"
+    },
+    "flex-direction": {
+        "row": "-webkit-row",
+        "row-reverse": "-webkit-row-reverse",
+        "column": "-webkit-column",
+        "column-reverse": "-webkit-column-reverse"
+    },
+    "flex-wrap": {
+        "nowrap": "-webkit-nowrap",
+        "wrap": "-webkit-wrap",
+        "wrap-reverse": "-webkit-wrap-reverse"
+    },
+    "justify-content": {
+        "flex-start": "-webkit-flex-start",
+        "flex-end": "-webkit-flex-end",
+        "center": "-webkit-center",
+        "space-between": "-webkit-space-between",
+        "space-around": "-webkit-space-around",
+        "space-evenly": "-webkit-space-evenly"
+    },
+    "writing-mode": {
+        "horizontal-tb": "-webkit-horizontal-tb",
+        "vertical-rl": "-webkit-vertical-rl",
+        "vertical-lr": "-webkit-vertical-lr"
+    },
+    "cursor": {
+        "grab": "-webkit-grab",
+        "grabbing": "-webkit-grabbing",
+        "zoom-in": "-webkit-zoom-in",
+        "zoom-out": "-webkit-zoom-out"
+    },
+    "hyphens": {
+        "none": "-webkit-none",
+        "manual": "-webkit-manual",
+        "auto": "-webkit-auto"
+    },
+    "overflow-wrap": {
+        "normal": "-webkit-normal",
+        "break-word": "-webkit-break-word"
+    },
+    "text-orientation": {
+        "mixed": "-webkit-mixed",
+        "upright": "-webkit-upright",
+        "sideways": "-webkit-sideways",
+        "sideways-right": "-webkit-sideways-right",
+        "sideways-left": "-webkit-sideways-left"
+    }
+}

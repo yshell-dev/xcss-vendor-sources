@@ -1,0 +1,7 @@
+{
+  ":fullscreen": ":-webkit-full-screen",
+  ":autofill": ":-webkit-autofill",
+  ":placeholder-shown": ":-webkit-placeholder-shown",
+  ":is": ":-webkit-any",
+  ":indeterminate": ":-webkit-indeterminate"
+}

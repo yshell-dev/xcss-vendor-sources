@@ -1,0 +1,3 @@
+[submodule "src/.platform/template"]
+	path = src/.platform/template
+	url = https://github.com/yshell-dev/xcss-vendor-template.git
