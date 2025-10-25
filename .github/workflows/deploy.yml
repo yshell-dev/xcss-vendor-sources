@@ -77,6 +77,12 @@ jobs:
         with:
           path: ${{ env.BUILD_PATH }}/out
       
+      - name: Delete previous release
+        run: |
+          gh release delete latest --yes --cleanup-tag || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
@@ -85,9 +91,10 @@ jobs:
           body: |
             Automated release of XCSS vendor sources.
             Built from commit: ${{ github.sha }}
+            Build time: ${{ github.event.head_commit.timestamp }}
             
             All vendor source files are attached below.
-          files: ${{ env.BUILD_PATH }}/out/platform/**/*
+          files: ${{ env.BUILD_PATH }}/out/**/*
           draft: false
           prerelease: false
           make_latest: true
