@@ -94,6 +94,7 @@ jobs:
             Build time: ${{ github.event.head_commit.timestamp }}
             
             All vendor source files are attached below.
+            Either copy the file or use the link for latest updates.
           files: ${{ env.BUILD_PATH }}/out/**/*
           draft: false
           prerelease: false

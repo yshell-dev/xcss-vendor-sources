@@ -240,7 +240,6 @@ try {
 
                 o2[k2] = Object.entries(inverseNestedObject(v2)).reduce((o3, [k3, v3]) => {
                     o3[k3] = (k2 === "values.json") ? inverseNestedObject(v3) : v3;
-                    console.log(v3)
                     return o3
                 }, {})
 
@@ -276,8 +275,8 @@ try {
                     return o2;
                 }
             }, {}))
-            const fromfilename = `platform/${platform}_from-${year.padStart(4, "0")}`;
-            const lastfilename = `platform/${platform}_last-${(index + 1).toString().padStart(4, "0")}`;
+            const fromfilename = `platform/${platform}:from-${year.padStart(4, "0")}`;
+            const lastfilename = `platform/${platform}:last-${(index + 1).toString().padStart(4, "0")}`;
             indexmap[platform]["from"][String(year)] = fromfilename;
             indexmap[platform]["last"][`${String(index+1)} year`] = lastfilename;
             finalfiles[fromfilename] = JSON.stringify(o1);
