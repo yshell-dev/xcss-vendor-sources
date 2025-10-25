@@ -1,7 +1,6 @@
 {
     "name": "xcss-vendor-sources",
-    "sc": 3,
-    "requires": true,
+    "type": "module",
     "scripts": {
         "build": "node build.js"
     }
