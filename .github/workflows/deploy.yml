@@ -95,7 +95,7 @@ jobs:
             
             All vendor source files are attached below.
             Either copy the file or use the link for latest updates.
-          files: ${{ env.BUILD_PATH }}/out/**/*
+          files: ${{ env.BUILD_PATH }}/out/platform/**/*
           draft: false
           prerelease: false
           make_latest: true
