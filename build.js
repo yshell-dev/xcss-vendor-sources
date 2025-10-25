@@ -1,9 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 
-const SRC = "./src"
-const VIEW = "./view"
-const DEST = "./public"
+const SRC = "./src";
+const OUT = "./out";
+const VIEW = "./view";
 
 /**
  * Clears the target directory and publishes the content of the fileMap into it.
@@ -240,6 +240,7 @@ try {
 
                 o2[k2] = Object.entries(inverseNestedObject(v2)).reduce((o3, [k3, v3]) => {
                     o3[k3] = (k2 === "values.json") ? inverseNestedObject(v3) : v3;
+                    console.log(v3)
                     return o3
                 }, {})
 
@@ -286,7 +287,7 @@ try {
     },)
 
     finalfiles["index.json"] = JSON.stringify(indexmap)
-    publishPathContent(finalfiles, DEST)
+    publishPathContent(finalfiles, OUT)
 
 } catch (error) {
     console.error('\nAn unexpected error occurred:', error.message);

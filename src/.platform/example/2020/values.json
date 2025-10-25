@@ -1,84 +1,84 @@
 {
     "align-content": {
-        "start": "-prefix-start",
-        "end": "-prefix-end",
-        "center": "-prefix-center",
-        "flex-start": "-prefix-flex-start",
-        "flex-end": "-prefix-flex-end",
-        "space-between": "-prefix-space-between",
-        "space-around": "-prefix-space-around",
-        "space-evenly": "-prefix-space-evenly",
-        "stretch": "-prefix-stretch",
-        "safe center": "-prefix-safe-center",
-        "unsafe center": "-prefix-unsafe-center"
+        "start": ["-prefix-start"],
+        "end": ["-prefix-end"],
+        "center": ["-prefix-center"],
+        "flex-start": ["-prefix-flex-start"],
+        "flex-end": ["-prefix-flex-end"],
+        "space-between": ["-prefix-space-between"],
+        "space-around": ["-prefix-space-around"],
+        "space-evenly": ["-prefix-space-evenly"],
+        "stretch": ["-prefix-stretch"],
+        "safe center": ["-prefix-safe-center"],
+        "unsafe center": ["-prefix-unsafe-center"]
     },
     "align-items": {
-        "flex-start": "-prefix-flex-start",
-        "flex-end": "-prefix-flex-end",
-        "center": "-prefix-center",
-        "baseline": "-prefix-baseline",
-        "stretch": "-prefix-stretch"
+        "flex-start": ["-prefix-flex-start"],
+        "flex-end": ["-prefix-flex-end"],
+        "center": ["-prefix-center"],
+        "baseline": ["-prefix-baseline"],
+        "stretch": ["-prefix-stretch"]
     },
     "align-self": {
-        "flex-start": "-prefix-flex-start",
-        "flex-end": "-prefix-flex-end",
-        "center": "-prefix-center",
-        "baseline": "-prefix-baseline",
-        "stretch": "-prefix-stretch"
+        "flex-start": ["-prefix-flex-start"],
+        "flex-end": ["-prefix-flex-end"],
+        "center": ["-prefix-center"],
+        "baseline": ["-prefix-baseline"],
+        "stretch": ["-prefix-stretch"]
     },
     "display": {
-        "box": "-prefix-box",
-        "inline-box": "-prefix-inline-box",
-        "flex": "-prefix-flex",
-        "inline-flex": "-prefix-inline-flex",
-        "grid": "-prefix-grid",
-        "inline-grid": "-prefix-inline-grid",
-        "flow-root": "-prefix-flow-root"
+        "box": ["-prefix-box"],
+        "inline-box": ["-prefix-inline-box"],
+        "flex": ["-prefix-flex"],
+        "inline-flex": ["-prefix-inline-flex"],
+        "grid": ["-prefix-grid"],
+        "inline-grid": ["-prefix-inline-grid"],
+        "flow-root": ["-prefix-flow-root"]
     },
     "flex-direction": {
-        "row": "-prefix-row",
-        "row-reverse": "-prefix-row-reverse",
-        "column": "-prefix-column",
-        "column-reverse": "-prefix-column-reverse"
+        "row": ["-prefix-row"],
+        "row-reverse": ["-prefix-row-reverse"],
+        "column": ["-prefix-column"],
+        "column-reverse": ["-prefix-column-reverse"]
     },
     "flex-wrap": {
-        "nowrap": "-prefix-nowrap",
-        "wrap": "-prefix-wrap",
-        "wrap-reverse": "-prefix-wrap-reverse"
+        "nowrap": ["-prefix-nowrap"],
+        "wrap": ["-prefix-wrap"],
+        "wrap-reverse": ["-prefix-wrap-reverse"]
     },
     "justify-content": {
-        "flex-start": "-prefix-flex-start",
-        "flex-end": "-prefix-flex-end",
-        "center": "-prefix-center",
-        "space-between": "-prefix-space-between",
-        "space-around": "-prefix-space-around",
-        "space-evenly": "-prefix-space-evenly"
+        "flex-start": ["-prefix-flex-start"],
+        "flex-end": ["-prefix-flex-end"],
+        "center": ["-prefix-center"],
+        "space-between": ["-prefix-space-between"],
+        "space-around": ["-prefix-space-around"],
+        "space-evenly": ["-prefix-space-evenly"]
     },
     "writing-mode": {
-        "horizontal-tb": "-prefix-horizontal-tb",
-        "vertical-rl": "-prefix-vertical-rl",
-        "vertical-lr": "-prefix-vertical-lr"
+        "horizontal-tb": ["-prefix-horizontal-tb"],
+        "vertical-rl": ["-prefix-vertical-rl"],
+        "vertical-lr": ["-prefix-vertical-lr"]
     },
     "cursor": {
-        "grab": "-prefix-grab",
-        "grabbing": "-prefix-grabbing",
-        "zoom-in": "-prefix-zoom-in",
-        "zoom-out": "-prefix-zoom-out"
+        "grab": ["-prefix-grab"],
+        "grabbing": ["-prefix-grabbing"],
+        "zoom-in": ["-prefix-zoom-in"],
+        "zoom-out": ["-prefix-zoom-out"]
     },
     "hyphens": {
-        "none": "-prefix-none",
-        "manual": "-prefix-manual",
-        "auto": "-prefix-auto"
+        "none": ["-prefix-none"],
+        "manual": ["-prefix-manual"],
+        "auto": ["-prefix-auto"]
     },
     "overflow-wrap": {
-        "normal": "-prefix-normal",
-        "break-word": "-prefix-break-word"
+        "normal": ["-prefix-normal"],
+        "break-word": ["-prefix-break-word"]
     },
     "text-orientation": {
-        "mixed": "-prefix-mixed",
-        "upright": "-prefix-upright",
-        "sideways": "-prefix-sideways",
-        "sideways-right": "-prefix-sideways-right",
-        "sideways-left": "-prefix-sideways-left"
+        "mixed": ["-prefix-mixed"],
+        "upright": ["-prefix-upright"],
+        "sideways": ["-prefix-sideways"],
+        "sideways-right": ["-prefix-sideways-right"],
+        "sideways-left": ["-prefix-sideways-left"]
     }
 }
