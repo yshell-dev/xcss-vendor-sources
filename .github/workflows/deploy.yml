@@ -87,7 +87,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
-          name: Latest Vendor Sources
+          name: Available Vendor Sources
           body: |
             Automated release of XCSS vendor sources.
             Built from commit: ${{ github.sha }}
