@@ -1,0 +1,11 @@
+{
+  "::after": [":-prefix-after"],
+  "::before": [":-prefix-before"],
+  "::selection": ["::-prefix-selection"],
+  "::backdrop": ["::-prefix-backdrop"],
+  "::marker": ["::-prefix-marker"],
+  "::placeholder": ["::-prefix-input-placeholder"],
+  "::file-selector-button": ["::-prefix-file-upload-button"],
+  "::fullscreen": [":-prefix-full-screen"],
+  "::cue": ["::-prefix-cue"]
+}
