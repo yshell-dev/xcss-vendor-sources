@@ -1,7 +1,0 @@
-{
-  ":fullscreen": [":-prefix-full-screen"],
-  ":autofill": [":-prefix-autofill"],
-  ":placeholder-shown": [":-prefix-placeholder-shown"],
-  ":is": [":-prefix-any"],
-  ":indeterminate": [":-prefix-indeterminate"]
-}
