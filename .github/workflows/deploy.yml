@@ -87,7 +87,7 @@ jobs:
             Built from commit: ${{ github.sha }}
             
             All vendor source files are attached below.
-          files: ${{ env.BUILD_PATH }}/out/**/*
+          files: ${{ env.BUILD_PATH }}/out/platform/**/*
           draft: false
           prerelease: false
           make_latest: true
