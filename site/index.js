@@ -8,8 +8,8 @@ async function fetchData(url) {
 
 // Generate the full CDN link for a given path
 function getCDNLink(path) {
-    const href = window.location.href.replace('/index.html', '');
-    return href + '/' + path;
+    const href = window.location.href.replace('index.html', '');
+    return href + path;
 }
 
 // Create a copy button

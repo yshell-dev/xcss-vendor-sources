@@ -3,7 +3,7 @@ import path from 'path';
 
 const SRC = "./src";
 const OUT = "./out";
-const VIEW = "./view";
+const SITE = "./site";
 
 /**
  * Clears the target directory and publishes the content of the fileMap into it.
@@ -261,7 +261,7 @@ try {
     }
 
     const indexmap = {};
-    const finalfiles = createFileTree(VIEW);
+    const finalfiles = createFileTree(SITE);
     Object.entries(switched).forEach(([platform, years]) => {
         indexmap[platform] = {
             from: {},
