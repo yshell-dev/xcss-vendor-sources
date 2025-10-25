@@ -1,7 +1,0 @@
-{
-  "::after": ":-prefix-after",
-  "::before": ":-prefix-before",
-  "::selection": "::-prefix-selection",
-  "::backdrop": "::-prefix-backdrop",
-  "::cue": "::-prefix-cue"
-}
